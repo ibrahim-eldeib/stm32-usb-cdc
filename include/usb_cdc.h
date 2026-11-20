@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: MIT — Copyright (c) 2026 ibrahim-eldeib */
 /**
  * @file    usb_cdc.h
  * @brief   stm32-usb-cdc — a small USB CDC-ACM (virtual COM port) device for

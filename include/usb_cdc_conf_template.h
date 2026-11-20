@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: MIT — Copyright (c) 2026 ibrahim-eldeib */
 /**
  * @file    usb_cdc_conf_template.h
  * @brief   Configuration for stm32-usb-cdc.

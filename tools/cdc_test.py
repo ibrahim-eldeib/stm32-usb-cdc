@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT — Copyright (c) 2026 ibrahim-eldeib
 """
 Host-side check for a board running stm32-usb-cdc.
 

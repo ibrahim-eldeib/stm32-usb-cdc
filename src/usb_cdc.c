@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: MIT — Copyright (c) 2026 ibrahim-eldeib */
 /**
  * @file    usb_cdc.c
  * @brief   stm32-usb-cdc — USB CDC-ACM device on the STM32Cube HAL PCD driver.

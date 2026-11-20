@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: MIT — Copyright (c) 2026 ibrahim-eldeib */
 /*
  * FreeRTOS example: assemble received bytes into lines in the USB interrupt
  * and hand complete commands to a task through a queue. This is how the

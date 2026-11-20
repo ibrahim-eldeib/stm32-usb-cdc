@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: MIT — Copyright (c) 2026 ibrahim-eldeib
 # Compile src/usb_cdc.c against several STM32Cube HAL packages to catch
 # family-specific API differences. Needs arm-none-eabi-gcc on PATH and the
 # STM32Cube firmware packages under $CUBE_REPO (default ~/STM32Cube/Repository).

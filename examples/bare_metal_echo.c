@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: MIT — Copyright (c) 2026 ibrahim-eldeib */
 /*
  * Bare-metal example: echo everything back, and print a counter every second.
  * Paste the marked parts into a CubeMX-generated main.c.

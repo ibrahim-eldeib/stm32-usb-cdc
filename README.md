@@ -91,3 +91,7 @@ docs/GUIDE.md                     how it works, porting per family, troubleshoot
 - how USB enumeration and this driver work
 - the CubeMX settings each family needs
 - the bugs we hit while bringing it up on the STM32H5, and how to recognise each failure from the PC side
+
+## License
+
+MIT, see [LICENSE](LICENSE). The STM32Cube HAL that this driver builds on is ST's, under its own license (BSD-3-Clause), and is not included here.
